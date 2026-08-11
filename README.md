@@ -185,8 +185,6 @@ Recommended validation steps before activating the workflow in production:
 
 ## 9. Screenshots / Demo Placeholder
 
-> _Add visuals here before publishing to the repo or portfolio page._
-
 - [ ] <img width="1877" height="777" alt="image" src="https://github.com/user-attachments/assets/1c7e190f-7f92-42da-a366-8594ec9a9085" />
  
 - [ ] <img width="1272" height="801" alt="image" src="https://github.com/user-attachments/assets/c78fc30e-1b23-4a02-bc23-f155059e6c98" />
